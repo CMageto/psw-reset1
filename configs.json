@@ -1,0 +1,20 @@
+{
+    "database": [
+        {
+            "tag": "localhost",
+            "name": "clinton",
+            "port": 3306,
+            "host": "localhost",
+            "username": "root",
+            "password": "V@d3rD@rthBen10leon*"
+        },
+        {
+            "tag": " dev1",
+            "name": "dev_betika",
+            "port": 3306,
+            "host": "dev-mysql01-primary.betika.private",
+            "username": "dev-mysql01_user",
+            "password": "4c5cKAeMvx6N58b%PuyfH7MbSak4MQ7cD"
+        }
+    ]
+}
